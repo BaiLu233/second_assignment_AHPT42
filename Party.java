@@ -162,7 +162,7 @@ public class Party{
             		System.out.println("-----------animal need ----------");
             		list_animal_need();
             		break;
-            	case "list_species_need"://9
+            	case "speciesneed"://9
             		System.out.println("-----------list species need -------- ");
             		list_species_need();
             		break;
